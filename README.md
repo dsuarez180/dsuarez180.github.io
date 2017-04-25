@@ -1,6 +1,6 @@
 # http://dsuarez180.github.io
 <html>
-<link rel="shortcut icon" https://www.mindmeister.com/images/download/11588951">
+<link rel="shortcut icon" https://www.mindmeister.com/images/download/11588951
 
 
 <head>
