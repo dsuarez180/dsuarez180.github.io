@@ -23,20 +23,4 @@
 <br>
 <img src="Captura.JPG" border="0"  width"200" height"15">
 
-<body>
-<centre>
-<table border=1>
-<tr>
-<td>
-<img src="dibujo1.jpg"border"0 width="400" heigth0"400"></td>
-</td>
-<td>
-<img src="dibujo2.jpg""border"0 width="400" heigth0"400"></td>
-</td>
-</tr>
-<tr>
-<td> ejemplo 1 </td>
-<td> ejemplo 2 </td>
-</centre>
-</table>
-</tr>
+
